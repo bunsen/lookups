@@ -1,10 +1,926 @@
 [
   {
+    "name": "AcademicCap",
+    "value": "AcademicCapIcon"
+  },
+  {
+    "name": "Adjustments",
+    "value": "AdjustmentsIcon"
+  },
+  {
+    "name": "Annotation",
+    "value": "AnnotationIcon"
+  },
+  {
+    "name": "Archive",
+    "value": "ArchiveIcon"
+  },
+  {
+    "name": "ArrowCircleDown",
+    "value": "ArrowCircleDownIcon"
+  },
+  {
+    "name": "ArrowCircleLeft",
+    "value": "ArrowCircleLeftIcon"
+  },
+  {
+    "name": "ArrowCircleRight",
+    "value": "ArrowCircleRightIcon"
+  },
+  {
+    "name": "ArrowCircleUp",
+    "value": "ArrowCircleUpIcon"
+  },
+  {
+    "name": "ArrowDown",
+    "value": "ArrowDownIcon"
+  },
+  {
+    "name": "ArrowLeft",
+    "value": "ArrowLeftIcon"
+  },
+  {
+    "name": "ArrowNarrowDown",
+    "value": "ArrowNarrowDownIcon"
+  },
+  {
+    "name": "ArrowNarrowLeft",
+    "value": "ArrowNarrowLeftIcon"
+  },
+  {
+    "name": "ArrowNarrowRight",
+    "value": "ArrowNarrowRightIcon"
+  },
+  {
+    "name": "ArrowNarrowUp",
+    "value": "ArrowNarrowUpIcon"
+  },
+  {
+    "name": "ArrowRight",
+    "value": "ArrowRightIcon"
+  },
+  {
+    "name": "ArrowSmDown",
+    "value": "ArrowSmDownIcon"
+  },
+  {
+    "name": "ArrowSmLeft",
+    "value": "ArrowSmLeftIcon"
+  },
+  {
+    "name": "ArrowSmRight",
+    "value": "ArrowSmRightIcon"
+  },
+  {
+    "name": "ArrowSmUp",
+    "value": "ArrowSmUpIcon"
+  },
+  {
+    "name": "ArrowUp",
+    "value": "ArrowUpIcon"
+  },
+  {
+    "name": "ArrowsExpand",
+    "value": "ArrowsExpandIcon"
+  },
+  {
+    "name": "AtSymbol",
+    "value": "AtSymbolIcon"
+  },
+  {
+    "name": "Backspace",
+    "value": "BackspaceIcon"
+  },
+  {
+    "name": "BadgeCheck",
+    "value": "BadgeCheckIcon"
+  },
+  {
+    "name": "Ban",
+    "value": "BanIcon"
+  },
+  {
+    "name": "Beaker",
+    "value": "BeakerIcon"
+  },
+  {
+    "name": "Bell",
+    "value": "BellIcon"
+  },
+  {
+    "name": "BookOpen",
+    "value": "BookOpenIcon"
+  },
+  {
+    "name": "BookmarkAlt",
+    "value": "BookmarkAltIcon"
+  },
+  {
+    "name": "Bookmark",
+    "value": "BookmarkIcon"
+  },
+  {
+    "name": "Briefcase",
+    "value": "BriefcaseIcon"
+  },
+  {
+    "name": "Cake",
+    "value": "CakeIcon"
+  },
+  {
+    "name": "Calculator",
+    "value": "CalculatorIcon"
+  },
+  {
+    "name": "Calendar",
+    "value": "CalendarIcon"
+  },
+  {
+    "name": "Camera",
+    "value": "CameraIcon"
+  },
+  {
+    "name": "Cash",
+    "value": "CashIcon"
+  },
+  {
+    "name": "ChartBar",
+    "value": "ChartBarIcon"
+  },
+  {
+    "name": "ChartPie",
+    "value": "ChartPieIcon"
+  },
+  {
+    "name": "ChartSquareBar",
+    "value": "ChartSquareBarIcon"
+  },
+  {
+    "name": "ChatAlt_2",
+    "value": "ChatAlt_2Icon"
+  },
+  {
+    "name": "ChatAlt",
+    "value": "ChatAltIcon"
+  },
+  {
+    "name": "Chat",
+    "value": "ChatIcon"
+  },
+  {
+    "name": "CheckCircle",
+    "value": "CheckCircleIcon"
+  },
+  {
+    "name": "Check",
+    "value": "CheckIcon"
+  },
+  {
+    "name": "ChevronDoubleDown",
+    "value": "ChevronDoubleDownIcon"
+  },
+  {
+    "name": "ChevronDoubleLeft",
+    "value": "ChevronDoubleLeftIcon"
+  },
+  {
+    "name": "ChevronDoubleRight",
+    "value": "ChevronDoubleRightIcon"
+  },
+  {
+    "name": "ChevronDoubleUp",
+    "value": "ChevronDoubleUpIcon"
+  },
+  {
+    "name": "ChevronDown",
+    "value": "ChevronDownIcon"
+  },
+  {
+    "name": "ChevronLeft",
+    "value": "ChevronLeftIcon"
+  },
+  {
+    "name": "ChevronRight",
+    "value": "ChevronRightIcon"
+  },
+  {
+    "name": "ChevronUp",
+    "value": "ChevronUpIcon"
+  },
+  {
+    "name": "Chip",
+    "value": "ChipIcon"
+  },
+  {
+    "name": "ClipboardCheck",
+    "value": "ClipboardCheckIcon"
+  },
+  {
+    "name": "ClipboardCopy",
+    "value": "ClipboardCopyIcon"
+  },
+  {
+    "name": "ClipboardList",
+    "value": "ClipboardListIcon"
+  },
+  {
+    "name": "Clipboard",
+    "value": "ClipboardIcon"
+  },
+  {
+    "name": "Clock",
+    "value": "ClockIcon"
+  },
+  {
+    "name": "CloudDownload",
+    "value": "CloudDownloadIcon"
+  },
+  {
+    "name": "CloudUpload",
+    "value": "CloudUploadIcon"
+  },
+  {
+    "name": "Cloud",
+    "value": "CloudIcon"
+  },
+  {
+    "name": "Code",
+    "value": "CodeIcon"
+  },
+  {
+    "name": "Cog",
+    "value": "CogIcon"
+  },
+  {
+    "name": "Collection",
+    "value": "CollectionIcon"
+  },
+  {
+    "name": "ColorSwatch",
+    "value": "ColorSwatchIcon"
+  },
+  {
+    "name": "CreditCard",
+    "value": "CreditCardIcon"
+  },
+  {
+    "name": "CubeTransparent",
+    "value": "CubeTransparentIcon"
+  },
+  {
+    "name": "Cube",
+    "value": "CubeIcon"
+  },
+  {
+    "name": "CurrencyBangladeshi",
+    "value": "CurrencyBangladeshiIcon"
+  },
+  {
+    "name": "CurrencyDollar",
+    "value": "CurrencyDollarIcon"
+  },
+  {
+    "name": "CurrencyEuro",
+    "value": "CurrencyEuroIcon"
+  },
+  {
+    "name": "CurrencyPound",
+    "value": "CurrencyPoundIcon"
+  },
+  {
+    "name": "CurrencyRupee",
+    "value": "CurrencyRupeeIcon"
+  },
+  {
+    "name": "CurrencyYen",
+    "value": "CurrencyYenIcon"
+  },
+  {
+    "name": "CursorClick",
+    "value": "CursorClickIcon"
+  },
+  {
+    "name": "Database",
+    "value": "DatabaseIcon"
+  },
+  {
+    "name": "DesktopComputer",
+    "value": "DesktopComputerIcon"
+  },
+  {
+    "name": "DeviceMobile",
+    "value": "DeviceMobileIcon"
+  },
+  {
+    "name": "DeviceTablet",
+    "value": "DeviceTabletIcon"
+  },
+  {
+    "name": "DocumentAdd",
+    "value": "DocumentAddIcon"
+  },
+  {
+    "name": "DocumentDownload",
+    "value": "DocumentDownloadIcon"
+  },
+  {
+    "name": "DocumentDuplicate",
+    "value": "DocumentDuplicateIcon"
+  },
+  {
+    "name": "DocumentRemove",
+    "value": "DocumentRemoveIcon"
+  },
+  {
+    "name": "DocumentReport",
+    "value": "DocumentReportIcon"
+  },
+  {
+    "name": "DocumentSearch",
+    "value": "DocumentSearchIcon"
+  },
+  {
+    "name": "DocumentText",
+    "value": "DocumentTextIcon"
+  },
+  {
+    "name": "Document",
+    "value": "DocumentIcon"
+  },
+  {
+    "name": "DotsCircleHorizontal",
+    "value": "DotsCircleHorizontalIcon"
+  },
+  {
+    "name": "DotsHorizontal",
+    "value": "DotsHorizontalIcon"
+  },
+  {
+    "name": "DotsVertical",
+    "value": "DotsVerticalIcon"
+  },
+  {
+    "name": "Download",
+    "value": "DownloadIcon"
+  },
+  {
+    "name": "Duplicate",
+    "value": "DuplicateIcon"
+  },
+  {
+    "name": "EmojiHappy",
+    "value": "EmojiHappyIcon"
+  },
+  {
+    "name": "EmojiSad",
+    "value": "EmojiSadIcon"
+  },
+  {
+    "name": "ExclamationCircle",
+    "value": "ExclamationCircleIcon"
+  },
+  {
+    "name": "Exclamation",
+    "value": "ExclamationIcon"
+  },
+  {
+    "name": "ExternalLink",
+    "value": "ExternalLinkIcon"
+  },
+  {
+    "name": "EyeOff",
+    "value": "EyeOffIcon"
+  },
+  {
+    "name": "Eye",
+    "value": "EyeIcon"
+  },
+  {
+    "name": "FastForward",
+    "value": "FastForwardIcon"
+  },
+  {
+    "name": "Film",
+    "value": "FilmIcon"
+  },
+  {
+    "name": "Filter",
+    "value": "FilterIcon"
+  },
+  {
+    "name": "FingerPrint",
+    "value": "FingerPrintIcon"
+  },
+  {
+    "name": "Fire",
+    "value": "FireIcon"
+  },
+  {
+    "name": "Flag",
+    "value": "FlagIcon"
+  },
+  {
+    "name": "FolderAdd",
+    "value": "FolderAddIcon"
+  },
+  {
+    "name": "FolderDownload",
+    "value": "FolderDownloadIcon"
+  },
+  {
+    "name": "FolderOpen",
+    "value": "FolderOpenIcon"
+  },
+  {
+    "name": "FolderRemove",
+    "value": "FolderRemoveIcon"
+  },
+  {
+    "name": "Folder",
+    "value": "FolderIcon"
+  },
+  {
+    "name": "Gift",
+    "value": "GiftIcon"
+  },
+  {
+    "name": "GlobeAlt",
+    "value": "GlobeAltIcon"
+  },
+  {
+    "name": "Globe",
+    "value": "GlobeIcon"
+  },
+  {
+    "name": "Hand",
+    "value": "HandIcon"
+  },
+  {
+    "name": "Hashtag",
+    "value": "HashtagIcon"
+  },
+  {
+    "name": "Heart",
+    "value": "HeartIcon"
+  },
+  {
+    "name": "Home",
+    "value": "HomeIcon"
+  },
+  {
+    "name": "Identification",
+    "value": "IdentificationIcon"
+  },
+  {
+    "name": "InboxIn",
+    "value": "InboxInIcon"
+  },
+  {
+    "name": "Inbox",
+    "value": "InboxIcon"
+  },
+  {
+    "name": "InformationCircle",
+    "value": "InformationCircleIcon"
+  },
+  {
+    "name": "Key",
+    "value": "KeyIcon"
+  },
+  {
+    "name": "Library",
+    "value": "LibraryIcon"
+  },
+  {
+    "name": "LightBulb",
+    "value": "LightBulbIcon"
+  },
+  {
+    "name": "LightningBolt",
+    "value": "LightningBoltIcon"
+  },
+  {
+    "name": "Link",
+    "value": "LinkIcon"
+  },
+  {
+    "name": "LocationMarker",
+    "value": "LocationMarkerIcon"
+  },
+  {
+    "name": "LockClosed",
+    "value": "LockClosedIcon"
+  },
+  {
+    "name": "LockOpen",
+    "value": "LockOpenIcon"
+  },
+  {
+    "name": "Login",
+    "value": "LoginIcon"
+  },
+  {
+    "name": "Logout",
+    "value": "LogoutIcon"
+  },
+  {
+    "name": "MailOpen",
+    "value": "MailOpenIcon"
+  },
+  {
     "name": "Mail",
     "value": "MailIcon"
   },
   {
-    "name": "Arrow Left",
-    "value": "ArrowLeftIcon"
+    "name": "Map",
+    "value": "MapIcon"
+  },
+  {
+    "name": "MenuAlt_1",
+    "value": "MenuAlt_1Icon"
+  },
+  {
+    "name": "MenuAlt_2",
+    "value": "MenuAlt_2Icon"
+  },
+  {
+    "name": "MenuAlt_3",
+    "value": "MenuAlt_3Icon"
+  },
+  {
+    "name": "MenuAlt_4",
+    "value": "MenuAlt_4Icon"
+  },
+  {
+    "name": "Menu",
+    "value": "MenuIcon"
+  },
+  {
+    "name": "Microphone",
+    "value": "MicrophoneIcon"
+  },
+  {
+    "name": "MinusCircle",
+    "value": "MinusCircleIcon"
+  },
+  {
+    "name": "MinusSm",
+    "value": "MinusSmIcon"
+  },
+  {
+    "name": "Minus",
+    "value": "MinusIcon"
+  },
+  {
+    "name": "Moon",
+    "value": "MoonIcon"
+  },
+  {
+    "name": "MusicNote",
+    "value": "MusicNoteIcon"
+  },
+  {
+    "name": "Name",
+    "value": "NamesTxt"
+  },
+  {
+    "name": "Newspaper",
+    "value": "NewspaperIcon"
+  },
+  {
+    "name": "OfficeBuilding",
+    "value": "OfficeBuildingIcon"
+  },
+  {
+    "name": "PaperAirplane",
+    "value": "PaperAirplaneIcon"
+  },
+  {
+    "name": "PaperClip",
+    "value": "PaperClipIcon"
+  },
+  {
+    "name": "Pause",
+    "value": "PauseIcon"
+  },
+  {
+    "name": "PencilAlt",
+    "value": "PencilAltIcon"
+  },
+  {
+    "name": "Pencil",
+    "value": "PencilIcon"
+  },
+  {
+    "name": "PhoneIncoming",
+    "value": "PhoneIncomingIcon"
+  },
+  {
+    "name": "PhoneMissedCall",
+    "value": "PhoneMissedCallIcon"
+  },
+  {
+    "name": "PhoneOutgoing",
+    "value": "PhoneOutgoingIcon"
+  },
+  {
+    "name": "Phone",
+    "value": "PhoneIcon"
+  },
+  {
+    "name": "Photograph",
+    "value": "PhotographIcon"
+  },
+  {
+    "name": "Play",
+    "value": "PlayIcon"
+  },
+  {
+    "name": "PlusCircle",
+    "value": "PlusCircleIcon"
+  },
+  {
+    "name": "PlusSm",
+    "value": "PlusSmIcon"
+  },
+  {
+    "name": "Plus",
+    "value": "PlusIcon"
+  },
+  {
+    "name": "PresentationChartBar",
+    "value": "PresentationChartBarIcon"
+  },
+  {
+    "name": "PresentationChartLine",
+    "value": "PresentationChartLineIcon"
+  },
+  {
+    "name": "Printer",
+    "value": "PrinterIcon"
+  },
+  {
+    "name": "Puzzle",
+    "value": "PuzzleIcon"
+  },
+  {
+    "name": "Qrcode",
+    "value": "QrcodeIcon"
+  },
+  {
+    "name": "QuestionMarkCircle",
+    "value": "QuestionMarkCircleIcon"
+  },
+  {
+    "name": "ReceiptRefund",
+    "value": "ReceiptRefundIcon"
+  },
+  {
+    "name": "ReceiptTax",
+    "value": "ReceiptTaxIcon"
+  },
+  {
+    "name": "Refresh",
+    "value": "RefreshIcon"
+  },
+  {
+    "name": "Reply",
+    "value": "ReplyIcon"
+  },
+  {
+    "name": "Rewind",
+    "value": "RewindIcon"
+  },
+  {
+    "name": "Rss",
+    "value": "RssIcon"
+  },
+  {
+    "name": "SaveAs",
+    "value": "SaveAsIcon"
+  },
+  {
+    "name": "Save",
+    "value": "SaveIcon"
+  },
+  {
+    "name": "Scale",
+    "value": "ScaleIcon"
+  },
+  {
+    "name": "Scissors",
+    "value": "ScissorsIcon"
+  },
+  {
+    "name": "SearchCircle",
+    "value": "SearchCircleIcon"
+  },
+  {
+    "name": "Search",
+    "value": "SearchIcon"
+  },
+  {
+    "name": "Selector",
+    "value": "SelectorIcon"
+  },
+  {
+    "name": "Server",
+    "value": "ServerIcon"
+  },
+  {
+    "name": "Share",
+    "value": "ShareIcon"
+  },
+  {
+    "name": "ShieldCheck",
+    "value": "ShieldCheckIcon"
+  },
+  {
+    "name": "ShieldExclamation",
+    "value": "ShieldExclamationIcon"
+  },
+  {
+    "name": "ShoppingBag",
+    "value": "ShoppingBagIcon"
+  },
+  {
+    "name": "ShoppingCart",
+    "value": "ShoppingCartIcon"
+  },
+  {
+    "name": "SortAscending",
+    "value": "SortAscendingIcon"
+  },
+  {
+    "name": "SortDescending",
+    "value": "SortDescendingIcon"
+  },
+  {
+    "name": "Sparkles",
+    "value": "SparklesIcon"
+  },
+  {
+    "name": "Speakerphone",
+    "value": "SpeakerphoneIcon"
+  },
+  {
+    "name": "Star",
+    "value": "StarIcon"
+  },
+  {
+    "name": "StatusOffline",
+    "value": "StatusOfflineIcon"
+  },
+  {
+    "name": "StatusOnline",
+    "value": "StatusOnlineIcon"
+  },
+  {
+    "name": "Stop",
+    "value": "StopIcon"
+  },
+  {
+    "name": "Sun",
+    "value": "SunIcon"
+  },
+  {
+    "name": "Support",
+    "value": "SupportIcon"
+  },
+  {
+    "name": "SwitchHorizontal",
+    "value": "SwitchHorizontalIcon"
+  },
+  {
+    "name": "SwitchVertical",
+    "value": "SwitchVerticalIcon"
+  },
+  {
+    "name": "Table",
+    "value": "TableIcon"
+  },
+  {
+    "name": "Tag",
+    "value": "TagIcon"
+  },
+  {
+    "name": "Template",
+    "value": "TemplateIcon"
+  },
+  {
+    "name": "Terminal",
+    "value": "TerminalIcon"
+  },
+  {
+    "name": "ThumbDown",
+    "value": "ThumbDownIcon"
+  },
+  {
+    "name": "ThumbUp",
+    "value": "ThumbUpIcon"
+  },
+  {
+    "name": "Ticket",
+    "value": "TicketIcon"
+  },
+  {
+    "name": "Translate",
+    "value": "TranslateIcon"
+  },
+  {
+    "name": "Trash",
+    "value": "TrashIcon"
+  },
+  {
+    "name": "Trendingdown",
+    "value": "TrendingdownIcon"
+  },
+  {
+    "name": "TrendingUp",
+    "value": "TrendingUpIcon"
+  },
+  {
+    "name": "Truck",
+    "value": "TruckIcon"
+  },
+  {
+    "name": "Upload",
+    "value": "UploadIcon"
+  },
+  {
+    "name": "UserAdd",
+    "value": "UserAddIcon"
+  },
+  {
+    "name": "UserCircle",
+    "value": "UserCircleIcon"
+  },
+  {
+    "name": "UserGroup",
+    "value": "UserGroupIcon"
+  },
+  {
+    "name": "UserRemove",
+    "value": "UserRemoveIcon"
+  },
+  {
+    "name": "User",
+    "value": "UserIcon"
+  },
+  {
+    "name": "Users",
+    "value": "UsersIcon"
+  },
+  {
+    "name": "Variable",
+    "value": "VariableIcon"
+  },
+  {
+    "name": "VideoCamera",
+    "value": "VideoCameraIcon"
+  },
+  {
+    "name": "ViewBoards",
+    "value": "ViewBoardsIcon"
+  },
+  {
+    "name": "ViewGridAdd",
+    "value": "ViewGridAddIcon"
+  },
+  {
+    "name": "ViewGrid",
+    "value": "ViewGridIcon"
+  },
+  {
+    "name": "ViewList",
+    "value": "ViewListIcon"
+  },
+  {
+    "name": "VolumeOff",
+    "value": "VolumeOffIcon"
+  },
+  {
+    "name": "VolumeUp",
+    "value": "VolumeUpIcon"
+  },
+  {
+    "name": "Wifi",
+    "value": "WifiIcon"
+  },
+  {
+    "name": "XCircle",
+    "value": "XCircleIcon"
+  },
+  {
+    "name": "X",
+    "value": "XIcon"
+  },
+  {
+    "name": "ZoomIn",
+    "value": "ZoomInIcon"
+  },
+  {
+    "name": "ZoomOut",
+    "value": "ZoomOutIcon"
   }
 ]
